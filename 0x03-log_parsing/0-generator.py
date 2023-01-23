@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-'''a script that reads jhagdh stdin line by line and computes metrics'''
+'''a scvript that reads jhagdh stdin line by line and computes metrics'''
 
 import random
 import sys
