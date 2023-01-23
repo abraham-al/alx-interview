@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+'''a script that reads jhagdh stdin line by line and computes metrics'''
+
 import random
 import sys
 from time import sleep
